@@ -1,0 +1,21 @@
+debug: true
+server:
+  port: 8888
+# spring
+spring:
+  application:
+    name: aq-example-app
+  profiles:
+    active: dev
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  elasticsearch:
+    uris: http://localhost:9200
+# logging
+logging:
+  level:
+    root: info
+    org.aqframework: info
+  file:
+    name: logs/${spring.application.name}.log

@@ -1,0 +1,32 @@
+# Team Name,City,Arena,Founded Year,Abbreviation,Conference,Division
+
+Atlanta Hawks,Atlanta,State Farm Arena,1946,ATL,Eastern,Southeast
+Boston Celtics,Boston,TD Garden,1946,BOS,Eastern,Atlantic
+Brooklyn Nets,Brooklyn,Barclays Center,1967,BKN,Eastern,Atlantic
+Charlotte Hornets,Charlotte,Spectrum Center,1988,CHA,Eastern,Southeast
+Chicago Bulls,Chicago,United Center,1966,CHI,Eastern,Central
+Cleveland Cavaliers,Cleveland,Rocket Mortgage FieldHouse,1970,CLE,Eastern,Central
+Dallas Mavericks,Dallas,American Airlines Center,1980,DAL,Western,Southwest
+Denver Nuggets,Denver,Ball Arena,1967,DEN,Western,Northwest
+Detroit Pistons,Detroit,Little Caesars Arena,1941,DET,Eastern,Central
+Golden State Warriors,San Francisco,Chase Center,1946,GSW,Western,Pacific
+Houston Rockets,Houston,Toyota Center,1967,HOU,Western,Southwest
+Indiana Pacers,Indianapolis,Gainbridge Fieldhouse,1967,IND,Eastern,Central
+Los Angeles Clippers,Los Angeles,Crypto.com Arena,1970,LAC,Western,Pacific
+Los Angeles Lakers,Los Angeles,Crypto.com Arena,1947,LAL,Western,Pacific
+Memphis Grizzlies,Memphis,FedExForum,1995,MEM,Western,Southwest
+Miami Heat,Miami,Kaseya Center,1988,MIA,Eastern,Southeast
+Milwaukee Bucks,Milwaukee,Fiserv Forum,1968,MIL,Eastern,Central
+Minnesota Timberwolves,Minneapolis,Target Center,1989,MIN,Western,Northwest
+New Orleans Pelicans,New Orleans,Smoothie King Center,2002,NOP,Western,Southwest
+New York Knicks,New York,Madison Square Garden,1946,NYK,Eastern,Atlantic
+Oklahoma City Thunder,Oklahoma City,Paycom Center,1967 (as SEA),OKC,Western,Northwest
+Orlando Magic,Orlando,Amway Center,1989,ORL,Eastern,Southeast
+Philadelphia 76ers,Philadelphia,Wells Fargo Center,1946,PHI,Eastern,Atlantic
+Phoenix Suns,Phoenix,Footprint Center,1968,PHX,Western,Pacific
+Portland Trail Blazers,Portland,Moda Center,1970,POR,Western,Northwest
+Sacramento Kings,Sacramento,Golden 1 Center,1948,SAC,Western,Pacific
+San Antonio Spurs,San Antonio,AT&T Center,1967,SAS,Western,Southwest
+Toronto Raptors,Toronto,Scotiabank Arena,1995,TOR,Eastern,Atlantic
+Utah Jazz,Salt Lake City,Vivint Arena,1974,UTA,Western,Northwest
+Washington Wizards,Washington, D.C.,Capital One Arena,1961,WAS,Eastern,Southeast
